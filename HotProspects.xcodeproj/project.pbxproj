@@ -11,6 +11,8 @@
 		529C2B9B2B6C183A00736077 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529C2B9A2B6C183A00736077 /* ContentView.swift */; };
 		529C2B9D2B6C183C00736077 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 529C2B9C2B6C183C00736077 /* Assets.xcassets */; };
 		529C2BA02B6C183C00736077 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 529C2B9F2B6C183C00736077 /* Preview Assets.xcassets */; };
+		529C2BA72B6FD18200736077 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529C2BA62B6FD18200736077 /* ProspectsView.swift */; };
+		529C2BA92B6FD18E00736077 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529C2BA82B6FD18E00736077 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		529C2B9A2B6C183A00736077 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		529C2B9C2B6C183C00736077 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		529C2B9F2B6C183C00736077 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		529C2BA62B6FD18200736077 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
+		529C2BA82B6FD18E00736077 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				529C2B9A2B6C183A00736077 /* ContentView.swift */,
 				529C2B9C2B6C183C00736077 /* Assets.xcassets */,
 				529C2B9E2B6C183C00736077 /* Preview Content */,
+				529C2BA62B6FD18200736077 /* ProspectsView.swift */,
+				529C2BA82B6FD18E00736077 /* MainView.swift */,
 			);
 			path = HotProspects;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				529C2BA72B6FD18200736077 /* ProspectsView.swift in Sources */,
+				529C2BA92B6FD18E00736077 /* MainView.swift in Sources */,
 				529C2B9B2B6C183A00736077 /* ContentView.swift in Sources */,
 				529C2B992B6C183A00736077 /* HotProspectsApp.swift in Sources */,
 			);
