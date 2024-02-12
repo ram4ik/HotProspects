@@ -61,11 +61,11 @@
 			children = (
 				529C2B982B6C183A00736077 /* HotProspectsApp.swift */,
 				529C2B9A2B6C183A00736077 /* ContentView.swift */,
-				529C2B9C2B6C183C00736077 /* Assets.xcassets */,
-				529C2B9E2B6C183C00736077 /* Preview Content */,
 				529C2BA62B6FD18200736077 /* ProspectsView.swift */,
 				529C2BA82B6FD18E00736077 /* MainView.swift */,
 				529C2BAA2B6FDB8300736077 /* Prospect.swift */,
+				529C2B9C2B6C183C00736077 /* Assets.xcassets */,
+				529C2B9E2B6C183C00736077 /* Preview Content */,
 			);
 			path = HotProspects;
 			sourceTree = "<group>";
